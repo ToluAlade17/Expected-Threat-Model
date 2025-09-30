@@ -1,2 +1,2 @@
-# Expected-Threat-Model
+# Football possession model
 Exploring StatsBomb opendata 
